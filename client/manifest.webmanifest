@@ -1,0 +1,22 @@
+{
+  "short_name": "i-phone store",
+  "name": "Cell-phone store",
+  "description": "An e-commerce store too sell i-phones",
+  "icons": [
+    {
+      "src": "./images/phone-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/phone-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "scope": "/index.html",
+  "theme_color": "#3367D6"
+}
